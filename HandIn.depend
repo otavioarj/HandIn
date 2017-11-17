@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1494976789 source:c:\users\otavio\dropbox\win\projetos\handin\getmod.cpp
+	"main.h"
+
+1494977591 c:\users\otavio\dropbox\win\projetos\handin\main.h
+	<windows.h>
+	"../ADVobfuscator/ADVobfuscator/MetaString4.h"
+
+1477870875 c:\users\otavio\dropbox\win\projetos\advobfuscator\advobfuscator\metastring4.h
+	"Inline.h"
+	"Indexes.h"
+	"MetaRandom.h"
+	"Log.h"
+
+1472378611 c:\users\otavio\dropbox\win\projetos\advobfuscator\advobfuscator\inline.h
+
+1472378611 c:\users\otavio\dropbox\win\projetos\advobfuscator\advobfuscator\indexes.h
+
+1472378611 c:\users\otavio\dropbox\win\projetos\advobfuscator\advobfuscator\metarandom.h
+	<random>
+
+1472378611 c:\users\otavio\dropbox\win\projetos\advobfuscator\advobfuscator\log.h
+	<iomanip>
+	<iostream>
+
+1494977359 source:c:\users\otavio\dropbox\win\projetos\handin\main.cpp
+	"main.h"
+
+1495762859 source:d:\dropbox\win\projetos\handin\getmod.cpp
+	"main.h"
+
+1496537514 d:\dropbox\win\projetos\handin\main.h
+	<windows.h>
+	"../ADVobfuscator/ADVobfuscator/MetaString4.h"
+
+1477870875 d:\dropbox\win\projetos\advobfuscator\advobfuscator\metastring4.h
+	"Inline.h"
+	"Indexes.h"
+	"MetaRandom.h"
+	"Log.h"
+
+1472378611 d:\dropbox\win\projetos\advobfuscator\advobfuscator\inline.h
+
+1472378611 d:\dropbox\win\projetos\advobfuscator\advobfuscator\indexes.h
+
+1472378611 d:\dropbox\win\projetos\advobfuscator\advobfuscator\metarandom.h
+	<random>
+
+1472378611 d:\dropbox\win\projetos\advobfuscator\advobfuscator\log.h
+	<iomanip>
+	<iostream>
+
+1496605362 source:d:\dropbox\win\projetos\handin\main.cpp
+	"main.h"
+	<tlhelp32.h>
+
+1495855874 source:d:\dropbox\win\projetos\handin\mmap.cpp
+	"main.h"
+
+1496545986 source:d:\dropbox\win\projetos\handin\pipe.cpp
+	"main.h"
+
+1490064804 source:d:\dropbox\win\projetos\handin\pload64.s
+
+1495918149 source:d:\dropbox\win\projetos\handin\thjack.cpp
+	"main.h"
+	<tlhelp32.h>
+
+1496535092 source:d:\dropbox\win\projetos\handin\smart.cpp
+	<windows.h>
+
